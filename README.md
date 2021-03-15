@@ -50,6 +50,6 @@ Connect() // Initiates connection to Glimesh's WS Server.
 
 ## Credits
 
-[Glimesh](https://github.com/Glimesh)
-[aMythos](https://glimesh.github.io/api-docs/)
+[Glimesh](https://github.com/Glimesh)<br>
+[aMythos](https://glimesh.github.io/api-docs/)<br>
 [CactusDev](https://github.com/CactusDev)
