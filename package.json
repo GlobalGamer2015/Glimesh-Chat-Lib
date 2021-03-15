@@ -1,0 +1,28 @@
+{
+	"name": "glimesh-chat-lib",
+	"version": "1.0.0",
+	"description": "Connect to Glimesh WS Servers, used with Glimesh Chat Bots.",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "test"
+	},
+	"keywords": [
+		"glimesh",
+		"chat",
+		"bot"
+	],
+	"author": "GG2015 CactusDev",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"ws": "^7.4.4"
+	},
+	"devDependencies": {
+		"@types/ws": "^7.4.4"
+	},
+	"types": "lib/index.d.ts"
+}
