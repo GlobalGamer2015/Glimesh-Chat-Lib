@@ -1,6 +1,6 @@
 # Glimesh-Chat-Lib
 
-This was modified to work with (AnyGameCounter)[https://www.anygamecounter]'s Chat bot, original can be found made by (CactusDev)[https://github.com/CactusDev/glimesh-chat].
+This was modified to work with (AnyGameCounter)[https://www.anygamecounter]'s Chat bot, original can be found made by [CactusDev](https://github.com/CactusDev/glimesh-chat).
 
 ## Usage
 
@@ -50,6 +50,6 @@ Connect() // Initiates connection to Glimesh's WS Server.
 
 ## Credits
 
-(Glimesh)[https://github.com/Glimesh]
-(aMythos)[https://glimesh.github.io/api-docs/]
-(CactusDev)[https://github.com/CactusDev]
+[Glimesh](https://github.com/Glimesh)
+[aMythos](https://glimesh.github.io/api-docs/)
+[CactusDev](https://github.com/CactusDev)
