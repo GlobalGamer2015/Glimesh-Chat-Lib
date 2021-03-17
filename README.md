@@ -4,7 +4,7 @@ This was modified to work with [AnyGameCounter](https://www.anygamecounter.com)'
 
 ## Usage
 
-```node
+```
 
 const ClientId = ""; // Your App's ClientId
 const Token = ""; // Your App's Token
