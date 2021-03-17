@@ -1,6 +1,6 @@
 # Glimesh-Chat-Lib
 
-This was modified to work with [AnyGameCounter](https://www.anygamecounter)'s Chat bot, original can be found made by [CactusDev](https://github.com/CactusDev/glimesh-chat).
+This was modified to work with [AnyGameCounter](https://www.anygamecounter.com)'s Chat bot, original can be found made by [CactusDev](https://github.com/CactusDev/glimesh-chat).
 
 ## Usage
 
