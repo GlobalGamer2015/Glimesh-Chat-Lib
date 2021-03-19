@@ -1,6 +1,6 @@
 {
 	"name": "glimesh-chat-lib",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Connect to Glimesh WS Servers, used with Glimesh Chat Bots.",
 	"main": "lib/index.js",
 	"scripts": {
